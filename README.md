@@ -1,10 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500px" alt="Backend Developer GIF">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500px" alt="Fast Coding GIF">
 </p>
-
-
-
 
 
 <h1 align="center">Hi there! 👋 I'm Shehar Bano</h1>
