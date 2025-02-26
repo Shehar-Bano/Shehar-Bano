@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="your-banner-url" alt="Shehar Bano | Laravel Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/your-github-username/repository-name/main/banner.png" width="100%" />
+
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Shehar Bano</h1>
