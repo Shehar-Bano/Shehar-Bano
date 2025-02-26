@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/repository-name/main/banner.png" width="100%" />
+  <img src="https://i.imgur.com/example.png" width="100%" />
+
 
 </p>
 
