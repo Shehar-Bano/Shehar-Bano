@@ -1,9 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/example.png" width="100%" />
-
-
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px" alt="Coding GIF">
 </p>
+
 
 <h1 align="center">Hi there! 👋 I'm Shehar Bano</h1>
 <h3 align="center">💻 Laravel Developer | PHP | MySQL | RESTful APIs | Git</h3>
