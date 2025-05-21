@@ -52,10 +52,10 @@
 
 ## 📫 Let's Connect  
 <p align="center">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/shehar-bano-32a4b724b/">
     <img src="https://img.shields.io/badge/LinkedIn-Shehar%20Bano-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sheharbano@email.com">
+  <a href="mailto:bshehar2002@email.com">
     <img src="https://img.shields.io/badge/Email-sheharbano%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
